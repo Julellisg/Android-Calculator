@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#3A3024</color>
+    <color name="purple_500">#3A3024</color>
+    <color name="purple_700">#3A3024</color>
+    <color name="teal_200">#3A3024</color>
+    <color name="teal_700">#3A3024</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="number_bg">#2A231B</color>
+    <color name="allclear_bg">#404B2B</color>
+    <color name="operand_bg">#54442D</color>
+    <color name="equal_bg">#604011</color>
+    <color name="app_bg">#1E1B16</color>
+    <color name="io_bg">#3A3024</color>
+    <color name="text_color">#f8dec1</color>
+    <color name="text_color2">#80F8BA75</color>
+</resources>
