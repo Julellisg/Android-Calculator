@@ -24,15 +24,15 @@
         android:id="@+id/outputView"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:layout_marginBottom="10dp"
+        android:layout_marginBottom="5dp"
         android:inputType="none"
         android:paddingStart="10dp"
         android:paddingEnd="10dp"
         android:textAlignment="textEnd"
-        android:textColor="@color/text_color"
+        android:textColor="@color/text_color2"
         android:freezesText="true"
         android:background="@color/io_bg"
-        app:autoSizeMaxTextSize="36sp"
+        app:autoSizeMaxTextSize="32sp"
         app:autoSizeMinTextSize="12sp"
         app:autoSizeTextType="uniform" />
 
