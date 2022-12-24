@@ -5,7 +5,7 @@ First assignment of my Mobile Computing class, and as such is programmed followi
 - Designed specifically on a **Nexus 4** Android Virtual Device.
 
 ## Functions & Usage Examples
-To outline the most important notable functions discluding forms of any operand or operator inputs: 
+To outline the most important functions discluding any kind of operand or operator inputting: 
 
 ### Basic Mode/Entry
 - This is the default mode on app launch.
