@@ -1,7 +1,7 @@
 # Simple Calculator
 
 First assignment of my Mobile Computing class, and as such is programmed following the class outline.
-- A very barebones calculator programmed to do basic mathmetical calculations.
+- An android application programmed to carry out mathematical calculations. 
 - Designed specifically on a **Nexus 4** Android Virtual Device.
 
 ## Functions & Usage Examples
